@@ -1,4 +1,4 @@
-![Screenshot (1613)](https://github.com/user-attachments/assets/19ca91c7-e88b-4a73-abfe-554f210505a7)# 🌟 Meteo Server V1 Special Edition 🌟  
+# 🌟 Meteo Server V1 Special Edition 🌟  
 ## The Best Affordable and One-and-Only Server with Full Testing Guide 🛠️
 
 ### ⚠️ Important: This server is available exclusively through our official Discord. Beware of scams elsewhere!
