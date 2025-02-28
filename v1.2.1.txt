@@ -1,3 +1,3 @@
-1.2.1
+1.2.2
 Fixed new reported bugs and added new vehicles. Request Update from Meteo Fivem Discord.
-1.2.1
+1.2.2
