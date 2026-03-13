@@ -1,3 +1,3 @@
 1.4.0
-New Major ox inventory and ox target support update For Meteo server. Join Meteo Studios Discord for more info.
+New Major bug fix update. Please update the server to fix all issues that occurred after ox inventory and ox target update. Join Meteo Studios Discord for more info.
 1.4.0
